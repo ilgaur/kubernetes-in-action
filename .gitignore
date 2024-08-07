@@ -1,0 +1,8 @@
+# Kubernetes specific ignores
+*.yaml
+*.yml
+*.log
+minikube-darwin-arm64
+# Node.js ignores (if applicable)
+node_modules/
+
