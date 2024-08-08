@@ -1,5 +1,5 @@
 # Kubernetes specific ignores
-*.yaml
+#*.yaml
 *.yml
 *.log
 minikube-darwin-arm64
